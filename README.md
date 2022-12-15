@@ -24,3 +24,11 @@ Project Repository URL:
 
  https://github.com/snehalpadekar/Restaurant-Recommendation-and-Reservation-System
  
+ ## ER Diagram:
+ 
+ ![ER diagram](https://user-images.githubusercontent.com/114432347/207770371-9162d45c-20b2-4457-9084-402bc90012cc.jpg)
+
+## Physical Diagram:
+
+![Physical Model](https://user-images.githubusercontent.com/114432347/207770498-aa7f388f-a970-41db-8d14-2220336903f6.jpg)
+ 
